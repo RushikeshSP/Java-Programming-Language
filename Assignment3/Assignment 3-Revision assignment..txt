@@ -1,0 +1,13 @@
+1. class
+2. object
+3. static 
+4. final
+5. constructor
+6. access specifiers (private, public, protected, default)
+7. Encapsulation
+8. composition
+9. super (field, method, constructor)
+10. this (field, method, constructor)
+11. Prepare JVM architecture (draw and explain on paper in your own words)
+12. List out and describe all java features on paper
+13. List out and write a short note on object oriented pillars.
